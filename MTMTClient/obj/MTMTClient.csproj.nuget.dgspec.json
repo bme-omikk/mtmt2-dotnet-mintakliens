@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Koni\\Source\\Repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj": {}
+    "C:\\Users\\Koni\\source\\repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Koni\\Source\\Repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj": {
+    "C:\\Users\\Koni\\source\\repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Koni\\Source\\Repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj",
+        "projectUniqueName": "C:\\Users\\Koni\\source\\repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj",
         "projectName": "MTMTClient",
-        "projectPath": "C:\\Users\\Koni\\Source\\Repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj",
+        "projectPath": "C:\\Users\\Koni\\source\\repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\MTMTClient.csproj",
         "packagesPath": "C:\\Users\\Koni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Koni\\Source\\Repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\obj\\",
+        "outputPath": "C:\\Users\\Koni\\source\\repos\\bme-omikk\\mtmt2-dotnet-mintakliens\\MTMTClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

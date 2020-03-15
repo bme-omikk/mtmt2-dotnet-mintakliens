@@ -29,6 +29,7 @@ namespace MTMTClient
             cookieContainer = new CookieContainer();
             handler = new HttpClientHandler() { CookieContainer = cookieContainer, UseCookies = true };
             client = new HttpClient(handler, false);
+            client.DefaultRequestHeaders.Add("Accept", "*/*");
             baseUrl = url;
             this.username = username;
             this.password = password;
