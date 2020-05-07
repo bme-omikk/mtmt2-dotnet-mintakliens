@@ -10,7 +10,7 @@ namespace MTMTClient
     {                
         static async Task Main(string[] args)
         {
-            using (MTMTAPIService mtmtAPIService = new MTMTAPIService(new Uri("https://oktatas.mtmt.hu/"), "hkonrad", "namilegyenezajelszo"))
+            using (MTMTAPIService mtmtAPIService = new MTMTAPIService(new Uri("https://oktatas.mtmt.hu/"), "...", "..."))
             {
                 //get authors with given name István and print out their family names
                 JObject authors = await mtmtAPIService.Get("api/author", new Parameters("cond", "givenName;eq;István"));
